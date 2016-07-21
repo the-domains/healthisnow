@@ -1,0 +1,14 @@
+layout_spectrum: 0.6810816084034741
+typography_spectrum: 0.8626379375346005
+color:
+  brandStrength: 0.318321491824463
+  lightness: 0.4315048451535404
+  saturation: 0.09200786845758557
+  rhythmicContrast: 0.7928785297553986
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: heal.thisnow
