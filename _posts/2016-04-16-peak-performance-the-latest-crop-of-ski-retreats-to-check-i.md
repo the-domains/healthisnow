@@ -1,12 +1,10 @@
 ---
-datePublished: '2016-07-21T17:04:08.756Z'
+datePublished: '2016-08-02T21:10:45.171Z'
 sourcePath: >-
   _posts/2016-04-16-peak-performance-the-latest-crop-of-ski-retreats-to-check-i.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.wallpaper.com/gallery/travel/peak-performance-the-latest-crop-of-ski-retreats-to-check-into
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - tel
   - switzerland
@@ -22,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-21T17:04:07.737Z'
+dateModified: '2016-08-02T21:10:44.456Z'
 title: 'Peak performance: the latest crop of ski retreats to check into.'
 app_links: []
 publisher:
@@ -37,6 +35,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: peak-performance-the-latest-crop-of-ski-retreats-to-check-i/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
