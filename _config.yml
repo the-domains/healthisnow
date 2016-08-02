@@ -1,4 +1,3 @@
-layout_spectrum: 0.6810816084034741
 typography_spectrum: 0.8626379375346005
 color:
   brandStrength: 0.318321491824463
@@ -11,5 +10,10 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
+layout_spectrum: 0.6810816084034741
 name: heal.thisnow
+navigation:
+  - name: here is some random link
+    id: 122eabdf-440c-4201-9063-647ab8bae95c
+    type: content
 description: im totally lost
