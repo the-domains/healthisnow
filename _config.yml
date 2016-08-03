@@ -1,16 +1,16 @@
-typography_spectrum: 0.8626379375346005
+typography_spectrum: 0.4317308976314962
 color:
-  brandStrength: 0.318321491824463
-  lightness: 0.4315048451535404
-  saturation: 0.09200786845758557
-  rhythmicContrast: 0.7928785297553986
+  brandStrength: 0.07702674460597336
+  lightness: 0.9041889405343682
+  saturation: 0.29291304270736873
+  rhythmicContrast: 0.37486072699539363
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.6810816084034741
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+layout_spectrum: 0.8032503169961274
 name: heal.thisnow
 navigation:
   - name: here is some random link
